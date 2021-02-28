@@ -13,11 +13,18 @@ system('cls');
 system('title Admin Control Panel Finder Coded by Tartou2 from www.next-next-future.com');
  
 print"\n";
-print "----------------------------------------------------------------\n" ;
-print "                        ADMNSCANNER LNX C1 \n" ;
+print "               _                              
+              | |                             
+ __      _____| |__    _ __   __ _  __ _  ___ 
+ \ \ /\ / / _ \ '_ \  | '_ \ / _` |/ _` |/ _ \
+  \ V  V /  __/ |_) | | |_) | (_| | (_| |  __/
+   \_/\_/ \___|_.__/  | .__/ \__,_|\__, |\___|
+                      | |           __/ |     
+                      |_|          |___/     \n" ;
+print "                             web page \n" ;
 print "                            by alghtas\n" ;
 print "                       page face; ALGHTAS HAC PENTEST\n\n" ;
-print "----------------------------------------------------------------\n" ;
+print "---------------------------------------------------------------\n" ;
 print "\n";
  
 print " coloque seu site para escanear \n";
